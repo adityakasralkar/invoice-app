@@ -1,34 +1,73 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# I N V O I C E - A P P 
 
-First, run the development server:
+A MERN Stack Invoice Application with Next.js - A React Framework .
+It is a Basic Invoice Application with CRUD Operations 
 
-```bash
-npm run dev
-# or
-yarn dev
+
+
+## Hosted Link
+
+     🔗 
+
+
+## Features
+
+- All data is Store & fetch with MongoDB
+- Minimilistic Design
+- Fullscreen mode
+- Live previews
+- Responsive
+
+
+
+## Database
+
+- For Data Storage : MongoDB
+
+```http
+  "https://www.mongodb.com/"
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `MONGO_URL` | `string` | Add Your Database Connection Credentials |
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Environment Variables
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+To run this project, You will need to add the following environment variables to your **.env file**
 
-## Learn More
+`API_KEY` = `Add Your Database Connection Credentials` 
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Run Project
 
-## Deploy on Vercel
+To Run this project on your system :
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Clone Project
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```bash
+  git clone REPO_LINK
+```
+
+Navigate to Project
+
+```bash
+  cd PROJECT_DIRECTORY
+```
+
+Install Dependencies
+
+```bash
+  npm install
+```
+
+Run Project
+
+```bash
+  npm run dev
+```
+
+
