@@ -70,4 +70,5 @@ Run Project
   npm run dev
 ```
 
-
+## Project Status
+- The User Authentication functionality is in Development
