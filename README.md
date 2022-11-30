@@ -8,7 +8,7 @@ It is a Basic Invoice Application with CRUD Operations
 
 ## Hosted Link
 
-     🔗 
+     🔗  https://invoice-next-app.vercel.app/
 
 
 ## Features
