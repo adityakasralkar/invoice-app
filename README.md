@@ -2,7 +2,7 @@
 # I N V O I C E - A P P 
 
 A MERN Stack Invoice Application with Next.js - A React Framework .
-It is a Basic Invoice Application with CRUD Operations 
+It is a Basic Invoice Application with CRUD Operations with Database 
 
 
 
@@ -71,4 +71,4 @@ Run Project
 ```
 
 ## Project Status
-- The User Authentication functionality is in Development
+- The User Route and User Authentication functionality is in Development
